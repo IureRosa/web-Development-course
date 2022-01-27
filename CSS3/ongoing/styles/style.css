@@ -1,0 +1,7 @@
+.text{
+	color: red;
+	background: orange;
+}
+.background{
+	background: whitesmoke url('pictures/yoshi.png') no-repeat scroll center center;
+}
